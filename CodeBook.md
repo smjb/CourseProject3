@@ -7,10 +7,11 @@
 ## Background
 The *run_analysis.R* script will run on the data from collected from accelerometer in Samsung Galaxy S as described in 
 	http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
-downloadable from 
+	
+The dataset is downloadable from 
      https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-**This document must be read together with the original data set description to understand the data.**
+**This document must be read together with the original data set description linked above to understand the data.**
 
 
 ----------
