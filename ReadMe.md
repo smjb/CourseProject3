@@ -22,3 +22,4 @@
 This script must be placed and run at the root directory of the dataset, ie. in the folder where "train" and "test" subdirectory are located
  
  
+To understand the meaning of each column, please refer to CodeBook.md and refer to the main documentation in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
