@@ -75,7 +75,7 @@ they are grouped by the Activity made and the Subject ID
 
 # R-friendly Estimation names 
 
-*Please refer to the main documentation in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones*
+*Please refer to the main documentation in http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones* to understand the meaning of each column. 
 
 ```
 
